@@ -40,10 +40,10 @@ title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-[[social]]
-title = "skype"
-icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[social]]
+#title = "skype"
+#icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[social]]
 title = "linkedin"

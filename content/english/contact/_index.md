@@ -8,8 +8,8 @@ draft: false
 
 
 ### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+Navigating the complexities of the digital landscape can be challenging, but with us, you unlock a realm of untapped growth and innovation. Reach out today and uncover how ITMC can seamlessly become your trusted partner.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Phone: +260 97 624 2222** 
+* **Mail: beenzu@itmconsultzm.com**
+* **Address: Pemba Heights, Plot 47A/XX Off Kafue Rd, Chilanga Lusaka, Zambia**
