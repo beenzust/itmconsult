@@ -25,6 +25,7 @@
 <!-- feature -->
 {{ with .Params.feature }}
 {{ if .enable }}
+
 <section class="section bg-light">
   <div class="container">
     <div class="row justify-content-center">
@@ -42,10 +43,11 @@
       {{ end }}
     </div>
   </div>
-</section>
+</section> 
 {{ end }}
 {{ end }}
 <!-- /feature -->
+
 
 <!-- service -->
 {{ with .Params.service }}
