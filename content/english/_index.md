@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Our mission is to  foster acceraleated digitalisation to enhance service delivery and elevate citizens' quality of life.  
+  title: Our mission is to  foster accelarated digitalisation to enhance service delivery and elevate citizens' quality of life.  
   image: images/banner-art.svg
   content: Based in Zambia, ITM Consult(ZM) is a research-driven digital advisory boutique that specializes 
       in integrating digital strategy, policy research, digital governance and provision of digital public services. We operate at the intersection of digital transformation and sustainable and socio-economic development, delivering comprehensive solutions that propel your success. Our mission is to  foster acceraleated digitalisation to enhance service delivery and elevate citizens' quality of life.   We serve as navigators through the intricacies of governance and technology, offering insights that ground you in the present while guiding you into the future
@@ -74,8 +74,9 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Experience the best  workflow with us
   image: images/screenshot.svg
+  content: workwith us
 call_to_action:
   enable: true
   title: Ready to get started?

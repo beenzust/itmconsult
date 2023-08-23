@@ -1,24 +1,25 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "A digital skills gap in Zambia .. coming soon"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-1.jpg"
+image: "images/blog/digitalskills.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
 description: "This is meta description"
 # post draft
-draft: false
+draft: true  
 ---
 
 
-#### Heading example
+# A Digital Skills Gap
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+According to the recently published ZICTA 2022 ICT Survey, Only 1 in 10 knows how to use a computer. [More later]
 
-# Heading 1 
+# Develop skills and knowledge to become a competent digital citizen 
 <br>
 
+The Capacity Development programme aims at achieving a digitally competent society where all people use knowledge and skills on digital technologies to improve their livelihoods. This is realized by developing capacities of ICT professionals, boosting digital literacy and skills of citizens, and developing knowledge resources
 ## Heading 2 
 
 <br>
