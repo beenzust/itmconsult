@@ -52,7 +52,7 @@ service:
       enable: true
       label: Check it out
       link: "#"    
-  - title: Delivering Innovative Digital Public Services to improve well-being of citizen.
+  - title: Deploying Digital Public Services apps to improve well-being of citizen.
     images:
     - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
