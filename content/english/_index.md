@@ -1,8 +1,7 @@
 ---
-
 feature:
   enable: false
-  title: What we do
+  title: Coming Soon!
   feature_item:
   - name: Digital Strategy  and Research
     icon: fas fa-code
@@ -14,10 +13,10 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Coming soon!
+  - title: Coming Soon!
     images:
-    - images/comingsoon.png
-    content: The fuure is coming faster and unpredictably than ever before. Disruption and innovation are re-defining citizens service expections and habits. Ecosystems are evolving and regulations intensifying. To thrive and win amid profound changes you need a strategy that meets today's challenges and seizes tomorrow's opportunities
+    - images/comingsoon1.png
+    content: <b>The future is coming faster and unpredictably than ever before. Disruption and innovation are re-defining citizens service expections and habits. Ecosystems are evolving and regulations intensifying. To thrive and win amid profound changes you need a strategy that meets today's challenges and seizes tomorrow's opportunities. </b>
     button:
       enable: false
       label: Check it out
@@ -30,9 +29,9 @@ screenshot:
   content: workwith us
 call_to_action:
   enable: false
-  title: what's your digital strategy? Ready to get started?
+  title: What's your digital strategy?
   image: images/cta.svg
-  content: Step into a realm of strategic possibilities with us. As your partners, we're committed to delivering strategies that drive your success story in the transformative Digital Era
+  content: Step into a realm of strategic possibilities with us. Go beyond the expected. As your partner, working together, we can help you to co-create a robust digital strategy that goes beyond ideas to design and implement solutions that deliver on our goals nd objectives.
   button:
     enable: true
     label: Contact Us
