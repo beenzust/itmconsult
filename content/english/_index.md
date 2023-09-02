@@ -28,10 +28,10 @@ screenshot:
   image: images/screenshot.svg
   content: workwith us
 call_to_action:
-  enable: false
+  enable: true
   title: What's your digital strategy?
   image: images/cta.svg
-  content: Step into a realm of strategic possibilities with us. Go beyond the expected. As your partner, working together, we can help you to co-create a robust digital strategy that goes beyond ideas to design and implement solutions that deliver on our goals nd objectives.
+  content: Step into a realm of strategic possibilities with us. Go beyond the expected. As your partner, working together, we can help you to co-create a robust digital strategy that goes beyond ideas to design and implement solutions that deliver on our goals and objectives.
   button:
     enable: true
     label: Contact Us
