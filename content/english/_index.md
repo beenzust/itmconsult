@@ -34,7 +34,6 @@ service:
   enable: true
   service_item:
   - title: Strategy & Research
- #   subtitle: Strategy & Reseaarch
     images:
     - images/service-1.png
     - images/service-2.png
