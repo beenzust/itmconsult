@@ -1,9 +1,9 @@
 ---
 banner:
-  title: Our mission is to  foster accelarated digitalisation to enhance service delivery and elevate citizens' quality of life.  
+  title:  Welcome to ITM Consulting!
+#  subtitle: Your Premier Leading Research-Driven Digital Advisory Boutique 
   image: images/banner-art.svg
-  content: Based in Zambia, ITM Consult(ZM) is a research-driven digital advisory boutique that specializes 
-      in integrating digital strategy, policy research, digital governance and provision of digital public services. We operate at the intersection of digital transformation and sustainable and socio-economic development, delivering comprehensive solutions that propel your success. Our mission is to  foster acceraleated digitalisation to enhance service delivery and elevate citizens' quality of life.   We serve as navigators through the intricacies of governance and technology, offering insights that ground you in the present while guiding you into the future
+  content: At ITM Consult, we specialize in providing comprehensive digital advisory services that help organizations and enterprises navigate the complex intersection of strategy, creativity, technology capacity building, and sustainable development. Our research-driven approach enables us to deliver tailored solutions for your unique business needs
   button:
     enable: true
     label: Contact Us
@@ -11,63 +11,87 @@ banner:
 feature:
   enable: true
   title: What we do
-  feature_item:
-  - name: Digital Strategy  and Research
+  feature_item: 
+  - name: Strategy  and Research
     icon: fas fa-code
-    content: Crafting Effective Digital Strategies and Informed Research
-  - name: Digital Governance
-    icon: fas fa-object-group
-    content:  
-#  - name: Data and Data Analytics
-#   icon: fas fa-user-clock
-#   content:  
+    content: "Crafting Effective Digital Strategies and Informed Research"
+  - name: Data and Data Analytics
+    icon: fas fa-user-clock
+    content: "Test"
   - name: Digital Public Servces
     icon: fas fa-heart
-    content: 
-#  - name: Capacity Development & Training
-#    icon: fas fa-tachometer-alt
-#    content:  
-#  - name: Cybersecurity and Data Privacy
-#    icon: fas fa-cloud
-#    content:  
+    content: "Test"
+  - name: "Digital Governance"
+    icon: fas fa-object-group
+    content: "Test"
+  - name: Capacity Development
+    icon: fas fa-tachometer-alt
+    content: "Test"
+  - name: Technical Writing
+    icon: fas fa-cloud
+    content: "Test"
 service:
   enable: true
   service_item:
-  - title: Crafting Effective Digital Strategies and Informed Research.
+  - title: Strategy & Research
+ #   subtitle: Strategy & Reseaarch
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: In a landscape where digital ecosystems evolve at an unprecedented pace, navigating change and 
-     complexity demands a holistic approach. The rapidity of these shifts often surpasses our capacity to establish protective measures and enact policies that foster inclusive innovation while guarding against misuse. For example, the recent global pandemic highlighted disparities in digital infrastructure,but also  exacerbated  the digital divide and accentuating gaps between nations and their digital capacities. Our strategic research initiatives endeavor to proactively unearth impactful solutions, providing leaders in the public, private, and non-profit sectors with actionable insights, decision-making support, and avenues to seamlessly integrate novel technologies into their organizational fabric.
+    content: "Our strategic research initiatives endeavor to proactively identify innovative solutions, providing leaders in the public, private, and non-profit organisations  with actionable insights, decision-making support, and novel avenues to seamlessly integrate digital technologies into their organizations. We offer comprehensive digital strategy consulting services to help organisations develop a clear roadmaps for success. Our team of experts will work closely with you to conduct in-depth research, analyze market trends, identify strategic opportunities for your organization, develop and implement a robust digital strategy that aligns with your business objectives."
+    
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Digital Governance
     images:
     - images/service-1.png
-    content: Digitalization presents incredible opportunities for organizations to innovate, strengthen,       and improve their business process, creating competitive advantages. Implementing digital governance is crucial in achieving digitalization goals and strategies. It ensures data consistency, trustworthiness, and prevents misuse. As organizations face new data privacy regulations and rely more on data analytics for decision-making, digital governance becomes increasingly important. <br> Implementing a well-designed digital governance framework minimizes effort and cost and enables organizations to navigate the digital landscape effectively, adhere to regulatory requirements, and achieve their strategic objectives. <br> At ITM Consult, our experienced consultants help organizations maximize benefit realization and value creation in line with their risk appetite. 
+    content: Digitalization presents incredible opportunities for organizations to innovate, strengthen,       and improve their business process, creating competitive advantages. Implementing digital governance is crucial in achieving digitalization goals and strategies. It ensures data consistency, trustworthiness, and prevents misuse. As organizations face new data privacy regulations and rely more on data analytics for decision-making, digital governance becomes increasingly important. <br> Implementing a well-designed digital governance framework minimizes effort and cost and enables organizations to navigate the digital landscape effectively, adhere to regulatory requirements, and achieve their strategic objectives. <br> Our experts are ready to  assist your organization to maximize benefit realization and value creation in line with your risk appetite. 
     button:
       enable: true
       label: Check it out
       link: "#"    
-  - title: Deploying Digital Public Services apps to improve well-being of citizen.
+  - title: Data Analytics
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: "Effective data management is crucial for success in today's digital landscape. ITM Consult offers comprehensive solutions for data collection, analysis, storage, and security. Our data analytics services enable you to uncover patterns, trends, gaining valuable insights and making data-driven  decisions, ensuring optimal performance and competitive advantage. Our experts will help you harness the power of  data to make informed business decisions and gain a competitive edge. <br> <br>
+    Capacity Building for Data Talent <br>
+    We also understand the importance of a data culture and skilled workforce in leveraging data effectively. ITM Consult provides comprehensive capacity building programs designed to enhance the skills and knowledge of your data talent. From data analysis to visualization, we equip your team with the necessary tools for success."
     button:
       enable: true
       label: Check it out
       link: "#"
-  - title: A confluene of expertise for impactful digital solutions.
+  - title: Capacity Builing and Training
     images:
     - images/service-2.png
-    content: ITMC  is a confluence of specialized principals and  associates, each contributing to a multidisciplinary approach to consultation, capacity building, and problem resolution. Woven within this fabric is a  team that combines extensive experience working in  the public , private and NGO sectors with a broad understanding of modern technology trends and practices.  We are architects of sustainable and impactful digital solutions, advocates for agile, human-centric problem-solving that seamlessly integrates innovative digital technologies and data to drive evidence-based decision making and societal progress. 
+    content: '<h5>To accelerate the digital capabilities of ambitious organization</h5><br>
+    <p>Successful transformation relies on cutting edge technology, but also on the human factor to deliver value at every stage of the transformation journey. You need the right talent to drive innovation, a culture ready for change and smarter business functions designed for the people who use them.  At ITM Consult, we understand the importance of building internal capabilities to thrive in the digital era. Our capacity building and training  programs equip your team with the essential skills and knowledge needed to embrace digital transformation and drive innovation within your organization.
+    <ul> <li>Leadership Technology Workshops <li> Digital Skills Training <li> Digital Literacy and Awareness Programs <li>Change management & Digital Champions <li> Customer Support </ul>'
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: IT Project Management
+    images:
+    - images/service-3.png
+    content: "With our expertise in IT project management, we ensure seamless execution and successful delivery of  your digital initiatives. Our team will work closely with you to define project goals, timelines, and  objectives, while effectively managing resources and mitigating risks."
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: Technical Documentation
+    images: 
+    - images/service-3.png
+    content: "<h5>Stop begging your software engineers to create technical content </h5><br>
+    We assist software devbelopment teanms to prepare  technical content for the  end-user and professionals ICT industry. Our services include:
+    <ul><li>	End-user documentation
+    <li>API Documentation
+    <li>Process documentation
+    <li>Standard Operating procedures
+    <li>Case studies relating to the use of specific technologies.
+    <li>Social media collateral"
     button:
       enable: true
       label: Check it out
@@ -79,7 +103,7 @@ screenshot:
   content: workwith us
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: what's your digital strategy? Ready to get started?
   image: images/cta.svg
   content: Step into a realm of strategic possibilities with us. As your partners, we're committed to delivering strategies that drive your success story in the transformative Digital Era
   button:
