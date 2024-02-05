@@ -14,22 +14,22 @@ feature:
   feature_item: 
   - name: Strategy  and Research
     icon: fas fa-code
-    content: "Crafting Effective Digital Strategies and Informed Research"
-  - name: Data and Data Analytics
-    icon: fas fa-user-clock
-    content: "Test"
+    content: Crafting Effective Digital Strategies and Informed Research
+  - name: Digital Governance
+    icon: fas fa-object-group
+    content:  
+#  - name: Data and Data Analytics
+#   icon: fas fa-user-clock
+#   content:  
   - name: Digital Public Servces
     icon: fas fa-heart
-    content: "Test"
-  - name: "Digital Governance"
-    icon: fas fa-object-group
-    content: "Test"
-  - name: Capacity Development
-    icon: fas fa-tachometer-alt
-    content: "Test"
-  - name: Technical Writing
-    icon: fas fa-cloud
-    content: "Test"
+    content: 
+#  - name: Capacity Development & Training
+#    icon: fas fa-tachometer-alt
+#    content:  
+#  - name: Cybersecurity and Data Privacy
+#    icon: fas fa-cloud
+#    content:  
 service:
   enable: true
   service_item:
@@ -97,7 +97,7 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Experience the best  workflow with us
   image: images/screenshot.svg
   content: workwith us
@@ -105,7 +105,7 @@ call_to_action:
   enable: true
   title: what's your digital strategy? Ready to get started?
   image: images/cta.svg
-  content: Step into a realm of strategic possibilities with us. As your partners, we're committed to delivering strategies that drive your success story in the transformative Digital Era
+  content: Step into a realm of strategic possibilities with us. Go beyond the expected. As your partner, working together, we can help you to co-create a robust digital strategy that goes beyond ideas to design and implement solutions that deliver on our goals and objectives.
   button:
     enable: true
     label: Contact Us

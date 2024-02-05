@@ -1,23 +1,23 @@
 # main menu
-[[main]]
-name = "About"
-url = "/"
-weight = 1
+#[[main]]
+#name = "About"
+#url = "/"
+#weight = 1
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 2
+#[[main]]
+##name = "Blog"
+#url = "blog/"
+#weight = 2
 
 #[[main]]
 #name = "Initiatives"
 #url = "pricing/"
 #weight = 3
 
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 4
+#[[main]]
+#name = "Contact"
+#url = "contact/"
+#weight = 4
 
 #[[main]]
 #name = "FAQ"
@@ -56,9 +56,9 @@ weight = 4
 #name = "Privacy Policy"
 #url = "privacy-policy/"
 
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
+#[[footer_right]]
+#name = "Terms & Conditions"
+#url = "terms-conditions/"
 
 #[[footer_right]]
 #name = "FAQ"
