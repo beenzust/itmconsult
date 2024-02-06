@@ -1,9 +1,9 @@
 ---
 banner:
-  title:  Welcome to ITM Consulting!
-#  subtitle: Your Premier Leading Research-Driven Digital Advisory Boutique 
+  title: Welcome to ITM Consulting!
+#   subtitle: Your Premier Leading Research-Driven Digital Advisory Boutique 
   image: images/banner-art.svg
-  content: At ITM Consult, we specialize in providing comprehensive digital advisory services that help organizations and enterprises navigate the complex intersection of strategy, creativity, technology capacity building, and sustainable development. Our research-driven approach enables us to deliver tailored solutions for your unique business needs
+  content: At ITM Consult, we specialize in providing comprehensive digital advisory services that help         oganizations and enterprises navigate the complex intersection of strategy, creativity, technology capacity  building, and sustainable development. Our research-driven approach enables us to deliver tailored  solutions for your unique business needs
   button:
     enable: true
     label: Contact Us
@@ -14,24 +14,25 @@ feature:
   feature_item: 
   - name: Strategy  and Research
     icon: fas fa-code
-    content: Crafting Effective Digital Strategies and Informed Research
+    content: 
   - name: Digital Governance
     icon: fas fa-object-group
+    content:
+  - name: Data Analytics
+    icon: fas fa-user-clock
     content:  
-#  - name: Data and Data Analytics
-#   icon: fas fa-user-clock
-#   content:  
-  - name: Digital Public Servces
+  - name: Project Management
     icon: fas fa-heart
     content: 
-#  - name: Capacity Development & Training
-#    icon: fas fa-tachometer-alt
-#    content:  
-#  - name: Cybersecurity and Data Privacy
-#    icon: fas fa-cloud
-#    content:  
+  - name: Capacity Developmentg
+    icon: fas fa-tachometer-alt
+    content:  
+  - name: Technical Writing
+    icon: fas fa-cloud
+    content:  
 service:
   enable: true
+  title: Services
   service_item:
   - title: Strategy & Research
     images:
@@ -102,9 +103,9 @@ screenshot:
   content: workwith us
 call_to_action:
   enable: true
-  title: what's your digital strategy? Ready to get started?
+  title: Ready to get started?
   image: images/cta.svg
-  content: Step into a realm of strategic possibilities with us. Go beyond the expected. As your partner, working together, we can help you to co-create a robust digital strategy that goes beyond ideas to design and implement solutions that deliver on our goals and objectives.
+  content: Ready to take your digital transformation journey to the next level? Contact ITM Consult today to discuss your specific needs and how we can help you achieve your goals. Together, let's pave the way to a digital future.   Call us now(tel:+260976242222) or send us a message (mailto:info@zm7.xyz) for a tailored digital solution.
   button:
     enable: true
     label: Contact Us
