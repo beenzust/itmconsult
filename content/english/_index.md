@@ -105,7 +105,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Ready to take your digital transformation journey to the next level? Contact ITM Consult today to discuss your specific needs and how we can help you achieve your goals. Together, let's pave the way to a digital future.   Call us now(tel:+260976242222) or send us a message (mailto:info@zm7.xyz) for a tailored digital solution.
+  content: Ready to take your digital transformation journey to the next level?  <br> Contact ITM Consult today to discuss your specific needs and how we can help you achieve your goals. Together, let's pave the way to a digital future.  <br> Call us now(tel:+260976242222) or send us a message (mailto:info@zm7.xyz) for a tailored digital solution.
   button:
     enable: true
     label: Contact Us
