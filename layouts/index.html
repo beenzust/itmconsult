@@ -51,9 +51,11 @@
 
 <!-- service -->
 {{ with .Params.service }}
+<div class="container bg-light"></div>
     <div class="col-12 text-center">
       <h2 class="section-title">{{ .title | markdownify }}</h2>
     </div>
+  </div>
 {{ if .enable }}
 {{ range $i,$p := .service_item }}
 {{if modBool $i 2}}

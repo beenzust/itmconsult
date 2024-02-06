@@ -32,7 +32,7 @@ feature:
     content:  
 service:
   enable: true
-  title: Services
+  title: Our Services
   service_item:
   - title: Strategy & Research
     images:
@@ -85,7 +85,7 @@ service:
     images: 
     - images/service-3.png
     content: "<h5>Stop begging your software engineers to create technical content </h5><br>
-    We assist software devbelopment teanms to prepare  technical content for the  end-user and professionals ICT industry. Our services include:
+    We assist organisation and software developers and to prepare  technical content for the  end-user and professionals ICT industry. <br><br> Our services include:<br>
     <ul><li>	End-user documentation
     <li>API Documentation
     <li>Process documentation
